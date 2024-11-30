@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Milind]!
+# 👋 Hello, I'm Milind!
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set in web development, machine learning, and software engineering. I love building innovative solutions that make a difference.
 
@@ -82,15 +82,12 @@ Inactivity Handling: The chatbot includes functionality to manage user inactivit
 
 Feel free to explore my repositories for more projects!
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## ✨ About Me
 
-- 🎓 I'm currently studying [MCA] at [GGSIPU].
-- 💼 I have experience in [Bharat Intern].
-- 🌱 I’m currently learning more about [Swing and Spring boot].
+- 🎓 I'm currently studying MCA at GGSIPU.
+- 💼 I have experience in Bharat Intern.
+- 🌱 I’m currently learning more about Swing and Spring boot.
 - 🤝 I’m open to collaborating on interesting projects.
 - 📫 How to reach me: [https://www.linkedin.com/in/milind-singh-317343246/]
 
