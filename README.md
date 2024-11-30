@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 
 Here are some of the technologies I've been working with:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrapreact,tailwind,python,django,c,java,spring,mysql,postgresql,mongodb,scikit" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,python,django,c,java,spring,mysql,postgresql,mongodb" alt="Tech Stack" />
 
 ## 🌟 Projects
 
