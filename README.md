@@ -28,14 +28,20 @@ Here are some of my notable projects:
    - **Search and Filter**: Users can search for books by title, author, or genre.  
    This project showcases skills in backend development, database management, and creating practical user-facing features.
 
-3. **[Mannmitra](https://github.com/bit-milind42/Mental_Health_Chatbot)**:  
-   Mannmitra is an interactive chatbot designed to assist users by providing intelligent responses to their queries. Built using Django for the backend and HTML, CSS, and JavaScript for the frontend:
-   - **User-Friendly Interface**: Clean and responsive design for seamless user experience.
-   - **Real-Time Interaction**: Engages users in conversations with real-time responses.
-   - **Natural Language Processing**: Utilizes a pre-trained LSTM model to understand user intents.
-   - **Inactivity Handling**: Prompts users to continue the conversation if they remain idle.
+3. **[Bank Management System](https://github.com/bit-milind42/Bank-Management-System)**:  
+   This is a Java-based desktop application designed to perform essential banking operations. Built with **Java Swing** for the interface and **PostgreSQL** for data management, it offers features like user 
+   registration, login, deposits, withdrawals, balance enquiry, and more.
 
-Feel free to explore my repositories for more projects!
+   ## Key Features
+   - User registration with auto-generated card number and PIN.
+   - Login authentication.
+   - Banking functionalities: deposit, withdraw, fast cash, balance enquiry, PIN change, and balance receipt.
+   - Secure data storage using PostgreSQL.
+   
+   ## Tech Stack
+   - **Programming Language**: Java
+   - **Framework**: Swing
+   - **Database**: PostgreSQL
 
 ## ✨ About Me
 
