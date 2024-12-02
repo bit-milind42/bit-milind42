@@ -31,17 +31,12 @@ Here are some of my notable projects:
 3. **[Bank Management System](https://github.com/bit-milind42/Bank-Management-System)**:  
    This is a Java-based desktop application designed to perform essential banking operations. Built with **Java Swing** for the interface and **PostgreSQL** for data management, it offers features like user 
    registration, login, deposits, withdrawals, balance enquiry, and more.
-
-   ## Key Features
+   
    - User registration with auto-generated card number and PIN.
    - Login authentication.
    - Banking functionalities: deposit, withdraw, fast cash, balance enquiry, PIN change, and balance receipt.
    - Secure data storage using PostgreSQL.
    
-   ## Tech Stack
-   - **Programming Language**: Java
-   - **Framework**: Swing
-   - **Database**: PostgreSQL
 
 ## ✨ About Me
 
