@@ -12,7 +12,7 @@ Here are some of the technologies I've been working with:
 
 Here are some of my notable projects:
 
-1. **[E-commerce](https://github.com/bit-milind42/E-commerce)**:  
+1. **[PrimePicks](https://github.com/bit-milind42/E-commerce)**:  
    An e-commerce platform developed using Django, offering essential features for online shopping:
    - **Inventory Management**: Add and manage items dynamically.
    - **Cart Functionality**: Users can add or remove items to/from their cart before checkout.
