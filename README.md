@@ -29,7 +29,7 @@ Here are some of my notable projects:
    This project showcases skills in backend development, database management, and creating practical user-facing features.
 
 3. **[Bank Management System](https://github.com/bit-milind42/Bank-Management-System)**:  
-   This is a Java-based desktop application designed to perform essential banking operations. Built with **Java Swing** for the interface and **PostgreSQL** for data management, it offers features like user 
+   This is a Java-based desktop application designed to perform essential banking operations. Built with **Java Swing** for the interface and **MySQL** for data management, it offers features like user 
    registration, login, deposits, withdrawals, balance enquiry, and more.
    
    - User registration with auto-generated card number and PIN.
