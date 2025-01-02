@@ -53,7 +53,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 - [LinkedIn](https://www.linkedin.com/in/milind-singh-317343246/)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
 Thank you for visiting my profile! Let's build something amazing together! 🚀
