@@ -55,7 +55,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Visitors](https://yourserver.com/count-badge)
 
 ---
 Thank you for visiting my profile! Let's build something amazing together! 🚀
