@@ -35,7 +35,7 @@ Here are some of my notable projects:
    - User registration with auto-generated card number and PIN.
    - Login authentication.
    - Banking functionalities: deposit, withdraw, fast cash, balance enquiry, PIN change, and balance receipt.
-   - Secure data storage using PostgreSQL.
+   - Secure data storage using MySQL.
    
 
 ## ✨ About Me
