@@ -8,16 +8,6 @@ Here are some of the technologies I've been working with:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,python,django,c,java,spring,mysql,postgresql,mongodb,github,vercel,postman,flask,git,pytorch,tensorflow" alt="Tech Stack" />
 
-## 🌟 Skills & Tools
-
-- <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Web Development" /> **Web Development**: MERN Stack, Django, Flask
-- <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Machine Learning" /> **Machine Learning**: TensorFlow, PyTorch, Hugging Face
-- <img src="https://skillicons.dev/icons?i=api" alt="APIs" /> **APIs & Integration**: RESTful APIs, Payment Gateways, Web Scraping
-- <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" /> **Version Control**: Git, GitHub
-- <img src="https://skillicons.dev/icons?i=vercel,heroku" alt="Deployment" /> **Deployment**: Vercel, Heroku
-- <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Management" /> **Database Management**: MySQL, PostgreSQL, MongoDB
-- <img src="https://skillicons.dev/icons?i=java" alt="Software Development" /> **Software Development**: Java Swing, Spring Boot
-- <img src="https://skillicons.dev/icons?i=docker" alt="Collaboration Tools" /> **Collaboration Tools**: Postman, Docker
 
 ## ✨ About Me
 
