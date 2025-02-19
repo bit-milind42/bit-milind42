@@ -15,7 +15,6 @@ Here are some of the technologies I've been working with:
 - 💼 I have experience with Bharat Intern.
 - 🌱 I’m currently enhancing my skills in Java Spring Boot and advanced machine learning techniques.
 - 🤝 I’m open to collaborating on innovative projects and hackathons.
-- 📫 How to reach me: [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/milind-singh-317343246/)
 
 ## 💬 Let's Connect!
 
