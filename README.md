@@ -80,17 +80,12 @@ Other        0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
 ### 🏆 GitHub Activity
 
 <details>
-  <summary>💹 <b>Recent GitHub Activity</b></summary>
+  <summary>⚡ <b>GitHub Metrics</b></summary>
   <br/>
   
-  
-  <i>This section is updated by a GitHub Action workflow</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </details>
 
-<summary>⚡ <b>GitHub Metrics</b></summary>
-  <br/>
-  <img src="https://metrics.lecoq.io/bit-milind42?template=classic&isocalendar=1&languages=1&achievements=1" alt="Detailed GitHub Metrics"/>
-</details>
 
 
 ### 📫 Connect With Me
