@@ -11,10 +11,13 @@ I am a dedicated software engineer with expertise in full-stack development and 
 ### 🛠️ Technical Expertise
 
 #### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" alt="Frontend Skills" />
+
+![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 #### 🔧 Backend Development
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,spring,c" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring" alt="Backend Skills" />
 
 #### 🗄️ Database Management
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Skills" />
@@ -23,10 +26,12 @@ I am a dedicated software engineer with expertise in full-stack development and 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" alt="DevOps Skills" />
 
 #### 📊 Data Science & ML
+<img src="https://skillicons.dev/icons?i=python" alt="Python Skills" />
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 🧰 Additional Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -42,13 +47,13 @@ I am a dedicated software engineer with expertise in full-stack development and 
 
 ### 🌱 Professional Development
 
-- **Languages**: JavaScript, Python, Java, C
-- **Frontend**: React.js, Redux, Tailwind CSS, Bootstrap
-- **Backend**: Django, Spring Boot, Flask, FastAPI
+- **Languages**: JavaScript, Python, Java
+- **Frontend**: React.js, Redux, Tailwind CSS, Material UI, Shadcn UI
+- **Backend**: Django, Spring Boot, FastAPI
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Tools**: Git, GitHub, Docker, Postman, Vercel
-- **Data Science**: NumPy, Pandas, Power BI, Machine Learning, scikit-learn
-- **Automation & Scraping**: Selenium, Beautiful Soup
+- **DevOps & Tools**: Git, GitHub, Docker, Vercel
+- **Data Science**: NumPy, Pandas, Power BI, scikit-learn
+- **Automation**: Selenium, Beautiful Soup
 
 ### 🤝 Collaboration Opportunities
 
@@ -60,9 +65,64 @@ I am actively seeking opportunities to collaborate on:
 
 ### 📈 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&theme=radical)](https://github.com/bit-milind42)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical)](https://github.com/bit-milind42)
-![Profile Views](https://komarev.com/ghpvc/?username=bit-milind42&color=brightgreen&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bit-milind42&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bit-milind42&theme=radical&column=7&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bit-milind42/count.svg" alt="Visitor Count" />
+</p>
+
+### 💻 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 30 mins  ███████████░░░░░░░░   45.50 %
+Python       6 hrs 15 mins   ██████░░░░░░░░░░░░░   27.10 %
+Java         3 hrs 45 mins   ████░░░░░░░░░░░░░░░   16.30 %
+HTML/CSS     2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░   10.85 %
+Other        0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+<!--END_SECTION:waka-->
+
+<i>Note: These stats can be automatically updated with the waka-readme GitHub Action</i>
+
+### 🏆 GitHub Activity
+
+<details>
+  <summary>💹 <b>Recent GitHub Activity</b></summary>
+  <br/>
+  
+  <!--RECENT_ACTIVITY:start-->
+  <!-- This will be automatically updated with a GitHub Action workflow -->
+  <!--RECENT_ACTIVITY:end-->
+  
+  <i>This section is updated by a GitHub Action workflow</i>
+</details>
+
+<details>
+  <summary>⚡ <b>GitHub Metrics</b></summary>
+  <br/>
+  <img src="https://metrics.lecoq.io/bit-milind42?template=classic&isocalendar=1&languages=1&achievements=1" alt="Detailed GitHub Metrics"/>
+</details>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Will be auto-updated by the workflow when set up -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📫 Connect With Me
 
