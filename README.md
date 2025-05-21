@@ -11,7 +11,10 @@ I am a dedicated software engineer with expertise in full-stack development and 
 ### 🛠️ Technical Expertise
 
 #### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,shadcn,mui" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" alt="Frontend Skills" />
+
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 #### 🔧 Backend Development
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring" alt="Backend Skills" />
@@ -33,16 +36,6 @@ I am a dedicated software engineer with expertise in full-stack development and 
 - Developing scalable and responsive web applications
 - Applying machine learning techniques to solve complex problems
 
-### 🌱 Professional Development
-
-- **Languages**: JavaScript, Python, Java
-- **Frontend**: React.js, Redux, Tailwind CSS, Material UI, Shadcn UI
-- **Backend**: Django, Spring Boot, FastAPI
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Tools**: Git, GitHub, Docker, Vercel
-- **Data Science**: NumPy, Pandas, Power BI, scikit-learn
-- **Automation**: Selenium, Beautiful Soup
-
 ### 🤝 Collaboration Opportunities
 
 I am actively seeking opportunities to collaborate on:
@@ -59,33 +52,18 @@ I am actively seeking opportunities to collaborate on:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical)](https://github.com/bit-milind42)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bit-milind42&theme=radical&column=7&no-frame=true)](https://github.com/bit-milind42)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bit-milind42&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
-text
-JavaScript   10 hrs 30 mins  ███████████░░░░░░░░   45.50 %
-Python       6 hrs 15 mins   ██████░░░░░░░░░░░░░   27.10 %
-Java         3 hrs 45 mins   ████░░░░░░░░░░░░░░░   16.30 %
-HTML/CSS     2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░   10.85 %
-Other        0 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript 10 hrs 30 mins ███████████░░░░░░░░ 45.50 %
+Python 6 hrs 15 mins ██████░░░░░░░░░░░░░ 27.10 %
+Java 3 hrs 45 mins ████░░░░░░░░░░░░░░░ 16.30 %
+HTML/CSS 2 hrs 30 mins ██░░░░░░░░░░░░░░░░░ 10.85 %
+Other 0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░ 00.25 %
+
 <!--END_SECTION:waka-->
-
-<i>Note: These stats can be automatically updated with the waka-readme GitHub Action</i>
-
-### 🏆 GitHub Activity
-
-<details>
-  <summary>⚡ <b>GitHub Metrics</b></summary>
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</details>
-
 
 
 ### 📫 Connect With Me
