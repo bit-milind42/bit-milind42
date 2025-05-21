@@ -10,11 +10,27 @@ I am a dedicated software engineer with expertise in full-stack development and 
 
 ### 🛠️ Technical Expertise
 
-```
-Frontend Development    |    Backend Development    |    Database Management    |    DevOps & Tools
-```
+#### 💻 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" alt="Frontend Skills" />
 
-,postman,flask,git" alt="Tech Stack" />
+#### 🔧 Backend Development
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,spring,c" alt="Backend Skills" />
+
+#### 🗄️ Database Management
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Skills" />
+
+#### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" alt="DevOps Skills" />
+
+#### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### 🧰 Additional Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔭 Current Focus
 
@@ -44,9 +60,9 @@ I am actively seeking opportunities to collaborate on:
 
 ### 📈 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/bit-milind42)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/bit-milind42)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&theme=radical)](https://github.com/bit-milind42)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical)](https://github.com/bit-milind42)
+![Profile Views](https://komarev.com/ghpvc/?username=bit-milind42&color=brightgreen&style=flat)
 
 ### 📫 Connect With Me
 
