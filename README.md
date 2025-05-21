@@ -14,22 +14,25 @@ I am a dedicated software engineer with expertise in full-stack development and 
 Frontend Development    |    Backend Development    |    Database Management    |    DevOps & Tools
 ```
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,tailwind,python,django,c,java,spring,mysql,postgresql,mongodb,github,vercel,postman,flask,git" alt="Tech Stack" />
+,postman,flask,git" alt="Tech Stack" />
 
 ### 🔭 Current Focus
 
 - Enhancing my proficiency in Java Spring Boot ecosystem
-- Exploring cloud-native application architectures
+- Exploring cloud-native application architectures with Docker
 - Implementing efficient data structures and algorithms in real-world applications
 - Developing scalable and responsive web applications
+- Applying machine learning techniques to solve complex problems
 
 ### 🌱 Professional Development
 
 - **Languages**: JavaScript, Python, Java, C
 - **Frontend**: React.js, Redux, Tailwind CSS, Bootstrap
-- **Backend**: Django, Spring Boot, Flask
+- **Backend**: Django, Spring Boot, Flask, FastAPI
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, Postman, Vercel
+- **DevOps & Tools**: Git, GitHub, Docker, Postman, Vercel
+- **Data Science**: NumPy, Pandas, Power BI, Machine Learning, scikit-learn
+- **Automation & Scraping**: Selenium, Beautiful Soup
 
 ### 🤝 Collaboration Opportunities
 
@@ -41,15 +44,14 @@ I am actively seeking opportunities to collaborate on:
 
 ### 📈 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/bit-milind42)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/bit-milind42)
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milind-singh-317343246/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-blond-iota-77.vercel.app/)
 
 ---
 
