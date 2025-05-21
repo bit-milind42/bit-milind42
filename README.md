@@ -20,7 +20,7 @@ I am a dedicated software engineer with expertise in full-stack development and 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring" alt="Backend Skills" />
 
 #### 🗄️ Database Management
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Skills" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" alt="Database Skills" />
 
 #### 🚀 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" alt="DevOps Skills" />
