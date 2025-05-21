@@ -83,24 +83,15 @@ Other        0 hrs 3 mins    ░░░░░░░░░░░░░░░░░
   <summary>💹 <b>Recent GitHub Activity</b></summary>
   <br/>
   
-  <!--RECENT_ACTIVITY:start-->
-  <!-- This will be automatically updated with a GitHub Action workflow -->
-  <!--RECENT_ACTIVITY:end-->
   
   <i>This section is updated by a GitHub Action workflow</i>
 </details>
 
-<details>
-  <summary>⚡ <b>GitHub Metrics</b></summary>
+<summary>⚡ <b>GitHub Metrics</b></summary>
   <br/>
   <img src="https://metrics.lecoq.io/bit-milind42?template=classic&isocalendar=1&languages=1&achievements=1" alt="Detailed GitHub Metrics"/>
 </details>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Will be auto-updated by the workflow when set up -->
-<!-- BLOG-POST-LIST:END -->
 
 ### 📫 Connect With Me
 
