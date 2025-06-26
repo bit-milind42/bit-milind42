@@ -74,7 +74,7 @@ I am actively seeking opportunities to collaborate on:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&theme=radical)](https://github.com/bit-milind42)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bit-milind42&theme=radical)](https://github.com/bit-milind42)
+<img src="https://streak-stats.demolab.com/?user=bit-milind42&theme=radical" alt="GitHub Streak" />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical)](https://github.com/bit-milind42)
 
