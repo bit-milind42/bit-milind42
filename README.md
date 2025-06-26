@@ -74,7 +74,7 @@ I am actively seeking opportunities to collaborate on:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&theme=radical)](https://github.com/bit-milind42)
 
-<img src="https://streak-stats.demolab.com/?user=bit-milind42&theme=radical" alt="GitHub Streak" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saman-dev12&theme=dark&hide_border=false)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical)](https://github.com/bit-milind42)
 
@@ -90,6 +90,8 @@ HTML/CSS 2 hrs 30 mins ██░░░░░░░░░░░░░░░░░
 Other 0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░ 00.25 %
 
 <!--END_SECTION:waka-->
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saman-dev12&color=blue)
 
 
 ### 📫 Connect With Me
