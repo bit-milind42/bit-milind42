@@ -74,7 +74,7 @@ I am actively seeking opportunities to collaborate on:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bit-milind42&show_icons=true&theme=radical)](https://github.com/bit-milind42)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bit-milind42&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?username=bit-milind42&theme=dark&hide_border=false)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit-milind42&layout=compact&theme=radical)](https://github.com/bit-milind42)
 
@@ -97,7 +97,6 @@ Other 0 hrs 3 mins ░░░░░░░░░░░░░░░░░░░ 00.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milind-singh-317343246/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-blond-iota-77.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bit-milind42&color=blue)
 ---
 
 > *"Committed to writing clean, efficient code and building solutions that make a difference."*
